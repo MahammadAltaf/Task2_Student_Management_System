@@ -38,7 +38,7 @@ public Student(int id, String name, double marks)
 
 This is the main class that handles user input and provides a menu for performing various operations using an `ArrayList<Student>`.
 
-### ➕ Add Student
+### Add Student
 ```java
 public static void addStudent()
 ```
